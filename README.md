@@ -8,5 +8,5 @@ En las operaciones de acarreo en minas a cielo abierto surge un reto central: el
 * El peso de la carga y cómo se distribuye en cada viaje.
 * El estado del equipo (neumáticos, mantenimiento).
 * Las condiciones ambientales (temperatura, humedad).
-* 
+  
 Como resultado, planificar el abastecimiento diario de combustible se vuelve impreciso, lo que puede causar tanto paradas inesperadas como compras excesivas.
